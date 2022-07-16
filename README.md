@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biskit-Van-Roy
 - 👀 I’m interested in coding Web Apps, Movile Apps, Desktop Apps and any project that includes Coding ;)
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on any coding project that helps me improve my coding skills
+- 💞️ I’m looking to collaborate on any coding project that helps me to improve my coding skills
 - 📫 How to reach me royhidalgo@informaticos.com
 
 <!---
